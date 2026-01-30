@@ -191,7 +191,7 @@ Only **one final route** is returned.
 * PDF field names may vary (e.g., `Text7`, `Text89`).
 * Non-fillable or scanned PDFs will not return form fields.
 * Multiple ESTIMATE AMOUNT fields require correct contextual mapping.
-* Attachments cannot be detected unless explicitly present i.
+* Attachments cannot be detected unless explicitly present in the form.
 
 ---
 
@@ -218,7 +218,7 @@ mvn clean install
 java -jar .\target\claims-agent-1.0-SNAPSHOT.jar ..\ACORD-Automobile-Loss-Notice-12.05.16.pdf
 ```
 
-* I have already build the project which you can locate the jar at .\target\claims-agent-1.0-SNAPSHOT.jar path
+* I have already built the project and you can find the JAR file at .\target\claims-agent-1.0-SNAPSHOT.jar.
 ---
 
 ## 9. Project Structure
