@@ -1,0 +1,16 @@
+com\company\claims\model\ContactDetails.class
+com\company\claims\model\InvolvedParties.class
+com\company\claims\Main.class
+com\company\claims\model\AssetDetails.class
+com\company\claims\model\ClaimOutput.class
+com\company\claims\parser\FNOLParser.class
+com\company\claims\util\PdfFormFieldExtractor.class
+com\company\claims\model\PolicyInformation.class
+com\company\claims\model\IncidentInformation.class
+com\company\claims\model\ClaimValidator.class
+com\company\claims\model\Claimant.class
+com\company\claims\routing\ClaimRouter.class
+com\company\claims\model\ThirdParties.class
+com\company\claims\model\ExtractedFields.class
+com\company\claims\model\RouteResult.class
+com\company\claims\model\OtherMandatoryFields.class
